@@ -7,9 +7,9 @@ The project used Python's Pandas, matplotlib, seaborn library for data visualisa
 
 # Questions this analysis will be answering
 
-What are the properties associated with high revenue?
-What variable is most correlated with movie revenue?
-Top 10 most profitable movies based on revenue?
-Top 10 most expensive movies?
-Top 10 most popular IMDB movies?
+What are the properties associated with high revenue? <br>
+What variable is most correlated with movie revenue? <br>
+Top 10 most profitable movies based on revenue? <br>
+Top 10 most expensive movies? <br>
+Top 10 most popular IMDB movies? <br>
 Top 10 most rated movies?
